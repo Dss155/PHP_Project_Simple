@@ -5,6 +5,6 @@ PHP Project in topic of Online Website On Handicraft Products
 For Used : -
 <br>
 1) Open Xampp Control panel and 
-2) open PHPMyadmin import myproject (2).sql file 
-<br>
+2) open PHPMyadmin import myproject (2).sql file
+
 Enjoy 👍
