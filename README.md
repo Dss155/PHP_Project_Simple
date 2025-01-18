@@ -86,13 +86,12 @@ The system uses tables for:
 
 ## How to Download and Setup
 
-### Step 1: Download the Project
-1. Clone the repository using Git:
+###  1: Download the Project using Clone the repository using Git :-
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
 
-### You can simply Downlaod using follow below screenshot : -
+###  2: Download the Project using Downloading the Zip file :-
 ![image](https://github.com/user-attachments/assets/23a68169-80d3-4d79-8131-15e396e4f791)
-![image](https://github.com/user-attachments/assets/6a6d4d21-229e-4068-9826-2e36074caa77)
+
 
 
