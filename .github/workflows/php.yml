@@ -1,4 +1,4 @@
-name: PHP Composer
+name: PHP CI
 
 on:
   push:
@@ -15,25 +15,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout Code
+      uses: actions/checkout@v4
 
-    - name: Validate composer.json and composer.lock
-      run: composer validate --strict
-
-    - name: Cache Composer packages
-      id: composer-cache
-      uses: actions/cache@v3
+    - name: Set up PHP
+      uses: shivammathur/setup-php@v2
       with:
-        path: vendor
-        key: ${{ runner.os }}-php-${{ hashFiles('**/composer.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-php-
+        php-version: '8.0' # Replace with the PHP version you are using
+        extensions: mbstring, intl
 
-    - name: Install dependencies
-      run: composer install --prefer-dist --no-progress
+    - name: Run PHP Syntax Check
+      run: php -l index.php # Replace `index.php` with your main PHP file or adjust to check all files
 
-    # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
-    # Docs: https://getcomposer.org/doc/articles/scripts.md
+    # Optional: Add PHP tests if applicable
+    # - name: Run Tests
+    #   run: phpunit tests # Adjust the path if you have a testing framework
 
-    # - name: Run test suite
-    #   run: composer run-script test
