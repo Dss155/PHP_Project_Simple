@@ -1,6 +1,6 @@
 # Online Handmade Goods
 
-An e-commerce platform for handmade goods, offering a seamless experience for customers to browse, purchase, and manage products. This project was developed as part of a **Master of Computer Applications** degree at **SAL Institute of Technology & Engineering Research, Ahmedabad**.
+An e-commerce platform for handmade goods, offering a seamless experience for customers to browse, purchase, and manage products. 
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -10,8 +10,7 @@ An e-commerce platform for handmade goods, offering a seamless experience for cu
 5. [Proposed Enhancements](#proposed-enhancements)
 6. [Technologies Used](#technologies-used)
 7. [How to Download and Setup](#how-to-download-and-setup)
-8. [Conclusion](#conclusion)
-9. [References](#references)
+8. [Conclusion and References](#conclusion-and-references)
 
 ---
 
@@ -86,10 +85,12 @@ The system uses tables for:
 
 ## How to Download and Setup
 
-###  1: Download the Project using Downloading the Zip file :-
-![image](https://github.com/user-attachments/assets/23a68169-80d3-4d79-8131-15e396e4f791)
+### 1: Download the Project Using a ZIP File
+1. Visit the [GitHub repository](https://github.com/Dss155/PHP_Project_Simple).
+2. Click on the green **Code** button and select **Download ZIP**.
+3. Extract the downloaded ZIP file to your desired location.
 
-###  2: Download the Project using Clone the repository using Git :-
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-
+### 2: Download the Project Using Git
+Use the following command to clone the repository:
+```bash
+git clone https://github.com/Dss155/PHP_Project_Simple.git
