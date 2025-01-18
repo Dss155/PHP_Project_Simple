@@ -94,4 +94,3 @@ The system uses tables for:
 ### You can simply Downlaod using follow below screenshot : -
 ![Uploading Screenshot (139).png…]()
 
-
