@@ -106,10 +106,15 @@ git clone https://github.com/Dss155/PHP_Project_Simple.git
 This platform is a virtual marketplace that supports creativity and connects buyers with talented artisans. It offers unique, handmade products while fostering a sense of community and enhancing user engagement. Each purchase supports talented crafters and helps keep the spirit of creativity alive.
 
 ## References
-- **Website References**:
+
+ **Books References**:
+ 
 - SQL, PL/SQL: The Programming Language of Oracle
 - The Joy of PHP Programming
 - PHP & MySQL Novice to Ninja
+
+ **Website References**:
+ 
 - W3Schools
 - Learn Microsoft
 - Google
