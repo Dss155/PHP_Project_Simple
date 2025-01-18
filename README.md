@@ -11,6 +11,7 @@ An e-commerce platform for handmade goods, offering a seamless experience for cu
 6. [Technologies Used](#technologies-used)
 7. [How to Download and Setup](#how-to-download-and-setup)
 8. [Conclusion and References](#conclusion-and-references)
+9. [License](#license)
 
 ---
 
@@ -122,7 +123,7 @@ This platform is a virtual marketplace that supports creativity and connects buy
 
 
 ---
-
+## License
 This version includes the License section at the end. If you decide on a different license, just update the license name and reference in the License section accordingly. Let me know if you need any further changes!
 
 
