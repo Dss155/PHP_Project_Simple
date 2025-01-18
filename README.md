@@ -97,19 +97,23 @@ The system uses tables for:
 Use the following command to clone the repository:
 ```bash
 git clone https://github.com/Dss155/PHP_Project_Simple.git
-```bash
+```
+
+---
+
 
 ## Conclusion and References
 This platform is a virtual marketplace that supports creativity and connects buyers with talented artisans. It offers unique, handmade products while fostering a sense of community and enhancing user engagement. Each purchase supports talented crafters and helps keep the spirit of creativity alive.
 
 ## References
-SQL, PL/SQL: The Programming Language of Oracle
-The Joy of PHP Programming
-PHP & MySQL Novice to Ninja
-W3Schools
-Learn Microsoft
-Google
-YouTube
+- **Website References**:
+- SQL, PL/SQL: The Programming Language of Oracle
+- The Joy of PHP Programming
+- PHP & MySQL Novice to Ninja
+- W3Schools
+- Learn Microsoft
+- Google
+- YouTube
 
 
 
