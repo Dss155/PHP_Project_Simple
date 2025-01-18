@@ -90,3 +90,7 @@ The system uses tables for:
 1. Clone the repository using Git:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
+
+### You can simply Downlaod using follow below screenshot : -
+![image](https://github.com/user-attachments/assets/93ca1ad8-c068-434f-845f-e0f2e7448542)
+
