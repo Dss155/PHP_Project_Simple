@@ -90,6 +90,9 @@ The system uses tables for:
 2. Click on the green **Code** button and select **Download ZIP**.
 3. Extract the downloaded ZIP file to your desired location.
 
+   ![image](https://github.com/user-attachments/assets/ecaf63e2-8471-4c2b-a14e-38b6fa4ae632)
+
+
 ### 2: Download the Project Using Git
 Use the following command to clone the repository:
 ```bash
