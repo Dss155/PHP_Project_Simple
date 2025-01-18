@@ -97,6 +97,7 @@ The system uses tables for:
 Use the following command to clone the repository:
 ```bash
 git clone https://github.com/Dss155/PHP_Project_Simple.git
+```bash
 
 ## Conclusion and References
 This platform is a virtual marketplace that supports creativity and connects buyers with talented artisans. It offers unique, handmade products while fostering a sense of community and enhancing user engagement. Each purchase supports talented crafters and helps keep the spirit of creativity alive.
