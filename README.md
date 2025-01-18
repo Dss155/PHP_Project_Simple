@@ -121,6 +121,9 @@ This platform is a virtual marketplace that supports creativity and connects buy
 - YouTube
 
 
+---
+
+This version includes the License section at the end. If you decide on a different license, just update the license name and reference in the License section accordingly. Let me know if you need any further changes!
 
 
 
